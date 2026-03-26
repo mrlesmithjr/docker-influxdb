@@ -1,7 +1,9 @@
 > [!CAUTION]
 > **This project is archived and no longer maintained.**
 > Archived: 2026-03-26
-> Reason: Outdated Docker image; use official InfluxDB images instead# docker-influxdb
+> Reason: Outdated Docker image; use official InfluxDB images instead
+
+# docker-influxdb
 
 Spins up a basic [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/)
 container for testing.
